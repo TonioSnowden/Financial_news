@@ -1,4 +1,4 @@
-# ML4Fin
+# ML for financial earning calls
 ## Abstract
 This study explores the application of machine learning techniques to analyze the sentiment of earnings calls and develop trading strategies based on those sentiments. With access to a dataset comprising 18,755 earnings call transcripts, we implement various NLP models to extract sentiment signals. Our approach includes state-of-the-art machine learning algorithms, including transformers like FinBERT, optimized for financial contexts. The sentiments derived from earnings calls are then used to predict short-term stock returns, aiming to capture market reactions post-earnings announcements. Furthermore, we experiment with multiple trading strategies leveraging these sentiment signals to guide investment decisions. The performance of these strategies is assessed by back-testing on historical data, demonstrating the potential of sentiment analysis as a predictive tool.
 
